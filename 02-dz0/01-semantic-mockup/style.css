@@ -1,0 +1,36 @@
+* {
+  margin: 5px;
+  padding: 5px;
+  color: white;
+}
+
+header {
+  text-align: center;
+  background-color: red;
+  margin: 0 5px 0 5px;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  background-color: orange;
+}
+
+main {
+  background-color: green;
+  margin: 0 5px 0 5px;
+}
+
+article {
+  background-color: blue;
+}
+
+footer {
+  text-align: center;
+  background-color: #9933ff;
+  margin: 0 5px 0 5px;
+}
+
+p {
+  font-size: 25px;
+}
